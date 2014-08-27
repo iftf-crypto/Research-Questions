@@ -11,7 +11,7 @@ IFTF Crypto-Economy Working Group Research Questions
 
 5.  What categories of crypto organization are there, and should they be regulated differently?
 
-Examples:
+    Examples:
 
 * Non-profit (Bitcoin Foundation) | For-profit (exchanges, some wallets, etc)
 * FOSS (Bitcoin) | Proprietary (3rd party services)
