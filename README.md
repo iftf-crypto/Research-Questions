@@ -14,10 +14,15 @@ IFTF Crypto-Economy Working Group Research Questions
     Examples:
 
     Non-profit (Bitcoin Foundation) | For-profit (exchanges, some wallets, etc)
+    
     FOSS (Bitcoin) | Proprietary (3rd party services)
+    
     Serves customers (Online wallets, exchanges, etc) | doesn't serve customers (Non-pooled miners)
+    
     Custodies private keys (Coinbase) | does not custody private keys (Blockchain.info)
+    
     Deals in fiat (Vaurum) | doesn't deal in fiat (Blockchain.info)
+    
     …?
 
 6.  How should cryptocurrency legislation and regulation converge with current money transmitter regulation?  Operate in parallel?  Should one subsume the other?  Should this area of regulation remain the purview of states, or be subsumed by federal regulation?  There are tradeoffs of each - at the state level it is onerous for startups to get 50 expensive licenses, but this enables competition among states for more crypto-aware regulation, whereas if moved to the Federal level it’s much easier to deal with but less regulatory innovation via competition.
